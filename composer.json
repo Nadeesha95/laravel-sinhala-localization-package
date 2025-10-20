@@ -9,14 +9,17 @@
   },
   "autoload": {
     "psr-4": {
-      "YourVendor\\SiLocalization\\": "src/"
+      "Nadeesha\\SiLocalization\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "nadeesha\\SiLocalization\\SinhalaLocalizationServiceProvider"
+        "Nadeesha\\SiLocalization\\SinhalaLocalizationServiceProvider"
       ]
+    },
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
     }
   }
 }
