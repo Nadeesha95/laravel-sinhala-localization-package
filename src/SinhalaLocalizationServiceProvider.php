@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\SiLocalization;
+namespace Nadeesha\SiLocalization;
 
 use Illuminate\Support\ServiceProvider;
 
