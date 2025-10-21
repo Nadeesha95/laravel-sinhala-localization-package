@@ -4,8 +4,10 @@
 
 Sinhala (සිංහල) JSON translations for Laravel.  
 Works with Laravel 9, 10, 11, 12.
-Version v1.0.0
-Developer : Nadeesha Sahen weerasekara
+  Version v1.0.0
+  Developer : Nadeesha Sahen weerasekara
+  
+<a href='https://packagist.org/packages/nadeesha/laravel-si-localization'>Package</a>
 
 ## Install
 
