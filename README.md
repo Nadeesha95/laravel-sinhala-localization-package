@@ -1,5 +1,7 @@
 # Laravel Sinhala Localization (si)
 
+<div align="center"> <img src="https://nadeesha95.github.io//Nadeesha%20weerasekara%20portfolio_files/Package.png"> </div>
+
 Sinhala (සිංහල) JSON translations for Laravel.  
 Works with Laravel 9, 10, 11, 12.
 Version v1.0.0
